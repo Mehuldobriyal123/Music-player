@@ -7,9 +7,12 @@ This application can be used to play mp3 songs. The key features in this are as 
 * User can also add some songs to the currently playing song list which will be temporary.
 * It also has search functionality which will the search the song and give the desired result.
 * It contains a interactive UI which allows user to control the songs. 
+
+
 These features are implemented with the help of :-
+
 1. Navigation Drawer
 2. Fragments
 3. Viewpager
 4. SQLite Database
-5. Adapters.
+5. Adapters
