@@ -9,10 +9,10 @@ This application can be used to play mp3 songs. The key features in this are as 
 * It contains a interactive UI which allows user to control the songs. 
 
 
-These features are implemented with the help of :-
+These features are implemented with the help of_:-
 
-1. Navigation Drawer
-2. Fragments
-3. Viewpager
-4. SQLite Database
-5. Adapters
+1. Navigation Drawer_
+2. Fragments_
+3. Viewpager_
+4. SQLite Database system_
+5. Adapters_
